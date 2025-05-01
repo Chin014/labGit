@@ -1,1 +1,5 @@
-Laboratorio de gitHub;
+//Laboratorio de gitHub
+public static void main(String[] args) {
+
+    System.out.println("Hola Mundo desde vsc hacia github");
+}
